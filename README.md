@@ -5,20 +5,31 @@
 - https://cahfelix.com
 
 ## Formação
+**Fiap:** 
+
 **Senac:** Pós Graduação em Engenharia Web
 
 **Fiap:** Analise e Desenvolvimento de Sistemas
 
 **Centro Paula Souza:** Comunicação Visual - Design Gráfico
 
+**Fiap:** SEO - O Caminho das Buscas no Google
+
 ## Experiências profissionais
-#### B2W Digital - Tech Team Lead - 2017/Atual
-Líder da equipe front-end na área de Shopping Experience da B2W Digital atuando nos sites: 
+
+#### B2W Digital - Coordenadora de Tecnologia - 2018/Atual
+Coordenadora de tecnologia na área de Shopping Experience da B2W Digital atuando nos sites: 
 - Americanas
 - Submarino
 - Shoptime
 - SouBarato
 
+#### B2W Digital - Frontend Engineer Senior - 2017/Atual
+Líder da equipe front-end na área de Shopping Experience da B2W Digital atuando nos sites: 
+- Americanas
+- Submarino
+- Shoptime
+- SouBarato
 
 #### Editora Abril - Frontend Engineer - 2013/2017
 Atuação como webmaster dos sites:
